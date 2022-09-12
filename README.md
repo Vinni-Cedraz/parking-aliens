@@ -4,3 +4,4 @@
 ### there are still some minor things to improve, especially in the layout and graphics so any help is welcome
 
 all the credits for the pixel art goes to: https://bizarrebeasties.artstation.com/projects/NxNRwz
+all the songs are from this playlist: https://www.youtube.com/watch?v=G68Q4lCM5pQ
